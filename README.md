@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dimitrensen
-- 👀 I’m interested in Blockchain Technolgies
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in Cloud, Blockchain technologies, Frontend and AI
+- 🌱 I’m currently learning Bash
 - 💞️ I’m looking to collaborate on upcoming crypto projects
 - 📫 How to reach me https://www.linkedin.com/in/dalexiou/
 
