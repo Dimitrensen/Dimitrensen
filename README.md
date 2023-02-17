@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dimitrensen
 - 👀 I’m interested in Cloud, Blockchain technologies, Frontend and AI
-- 🌱 I’m currently learning Bash
-- 💞️ I’m looking to collaborate on upcoming crypto projects
+- 📚 I’m currently learning Bash, Terraform & Python
+- ☁️ AWS certified
 - 📫 How to reach me https://www.linkedin.com/in/dalexiou/
 
 <!---
