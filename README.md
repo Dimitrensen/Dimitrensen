@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @Dimitrensen
-- 👀 I’m interested in Cloud, Blockchain technologies, Frontend and AI
-- 📚 I’m currently learning Elastic & Ansible
+- 👀 I’m interested in Cloud, Blockchain technologies, Cyberecurity and AI
+- 📚 I’m currently learning Elastic & ArgoCD
+- 📖 Ansible Playbooks enthusiast
+- 🛠️ IaC utilizer
 - ☁️ AWS certified
 - ☸ K8s certified
+- 🐍 P for Python
 - 🐳 Docker is king
-- 📫 How to reach me https://www.linkedin.com/in/dalexiou/
+- 🐧 Linux for president
+- ✉️ How to reach me: https://www.linkedin.com/in/dalexiou/
 
 <!---
 Dimitrensen/Dimitrensen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
