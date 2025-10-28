@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dimitrensen
 - 👀 I’m interested in Cloud, Blockchain technologies, Cyberecurity and AI
 - 📚 I’m currently learning Elastic & ArgoCD
+- 📊 Monitoring expert
 - 📖 Ansible Playbooks enthusiast
 - 🛠️ IaC utilizer
 - ☁️ AWS certified
