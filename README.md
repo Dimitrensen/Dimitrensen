@@ -3,6 +3,7 @@
 - 📚 I’m currently learning Elastic & Ansible
 - ☁️ AWS certified
 - ☸ K8s certified
+- 🐳 Docker is king
 - 📫 How to reach me https://www.linkedin.com/in/dalexiou/
 
 <!---
