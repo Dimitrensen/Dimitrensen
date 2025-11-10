@@ -6,6 +6,7 @@
 - 🛠️ IaC utilizer
 - ☁️ AWS certified
 - ☸ K8s certified
+- 🐙 Chainguard fan
 - 🐍 P for Python
 - 🐳 Docker is king
 - 🐧 Linux for president
